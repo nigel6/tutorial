@@ -6,3 +6,4 @@ Data Processing
 Biology
 Chemistry
 Ibo Language
+Geography

@@ -6,3 +6,4 @@ Staging area is where Git keeps changes that have been picked to go into next ve
 Working area is where all changes we are working on, not yet committed.
 Git branching points to the latest commit in the branch
 Clone of my GitHub repository
+There is branching in Git
