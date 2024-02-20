@@ -7,3 +7,4 @@ Working area is where all changes we are working on, not yet committed.
 Git branching points to the latest commit in the branch
 Clone of my GitHub repository
 There is branching in Git
+Linking your remote repository to the local is key
