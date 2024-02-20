@@ -1,0 +1,8 @@
+Git is version history for codes or projects
+It allows us to save past versions of our codes
+We can check version history in Git
+There are two main areas in Git
+Staging area is where Git keeps changes that have been picked to go into next version
+Working area is where all changes we are working on, not yet committed.
+Git branching points to the latest commit in the branch
+Clone of my GitHub repository
